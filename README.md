@@ -1,13 +1,22 @@
-<h1>Hi 👋, I'm xiyu</h1>
-<p>From 2013 to Now Not Financial Advice  ▣ ◉ ᛤ #BTC @rarelabs Investor in BTC startups.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="yes.xiyu.im">my blog</a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/ohxiyu" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ohxiyu&show_icons=true&locale=en" alt="ohxiyu" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohxiyu&" alt="ohxiyu" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ohxiyu&show_icons=true&locale=en&layout=compact" alt="ohxiyu" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ohxiyu" alt="ohxiyu" /></a></p>
+# 🌟 欢迎来到我的GitHub！ 🌟
+
+![Bitcoin Banner](https://img.shields.io/badge/Bitcoin-Faith%20in%20Chaos-orange?style=for-the-badge&logo=bitcoin)
+
+## 👋 谁是我？
+一个**币圈老韭菜**，在币圈摸爬滚打了**十年**的资深玩家。  
+感谢**比特币**，让这个混乱的世界多了一份**信仰**。🚀
+
+见过无数人的**兴衰起落**，我的投资风格偏**保守**，但热衷于**发现新事物**。  
+在这里，我会分享一些**投资体会**、**交易心得**，以及**个人思考**的内容。  
+
+希望通过我的经验，能帮你在这个市场**快速成长**起来！📈💡
+
+## 📌 我的分享焦点
+- **投资体会**：从教训中提炼的实用建议，避免常见坑。
+- **交易心得**：保守策略下的操作技巧，稳中求胜。
+- **个人思考**：对币圈趋势、区块链未来的深度反思。
+
+## 🔗 连接我
+- Twitter: [@ohxiyu](https://twitter.com/ohxiyu) – 实时分享币圈动态！  
+
+---
